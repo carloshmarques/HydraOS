@@ -173,7 +173,22 @@ This project was generated from *[Josee9988/project-template](https://github.com
 Enjoy! 😃
 
 ---
+<div>
 
 ## ⚖️📝 **License and Changelog**
 
 See the license in the '**[LICENSE](LICENSE)**' file.
+
+Watch the changes in the '**[CHANGELOG.md](CHANGELOG.md)**' file.
+
+---
+
+## 📝 **Additional notes**
+
+<!-- ... [ADD ADDITIONAL NOTES] -->
+
+**Made with a lot of ❤️ by [@carloshmarques](https://github.com/carloshmarques)**  
+---
+
+# HydraOS was generated from *[hydraprojects-cyber](https://github.com/hydraprojects-cyber)* 🐍🔥
+
